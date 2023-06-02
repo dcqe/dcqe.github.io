@@ -1,4 +1,4 @@
-This tool **does not require a local installation**. To use it just navigate to [https://github.com/dcqe/dcqe.github.io/prime_year_calculator](https://github.com/dcqe/dcqe.github.io/prime_year_calculator).
+This tool **does not require a local installation**. To use it just navigate to [https://dcqe.github.io/prime_year_calculator](https://dcqe.github.io/prime_year_calculator).
 
 If however you want to test it locally nonetheless you may to so with [jekyll](https://jekyllrb.com/docs/installation/):
 1. Install [ruby](https://www.ruby-lang.org/en/)
